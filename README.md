@@ -6,7 +6,7 @@ I am interested in the solution of software and hardware failures,
 maintenance and repair works related to heavy failures caused by 
 these failures.
 I have intermediate knowledge of 
-C, C#, C++, HTML/CSS. 
+C, C#, C++, HTML/CSS, Python. 
 In my spare time, 
 I take walks and read books.
 
