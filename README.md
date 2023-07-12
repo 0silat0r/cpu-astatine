@@ -17,3 +17,7 @@ For more:
   
 <h1>Github Stats</h1>
 https://github-readme-stats.vercel.app/api?username=cpu-astatine&show=reviews&theme=transparent
+
+
+<h1>Used Languages</h1>
+https://github-readme-stats.vercel.app/api/top-langs/?username=cpu-astatine&hide_progress=true
