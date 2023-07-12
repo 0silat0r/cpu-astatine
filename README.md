@@ -27,7 +27,7 @@ For more:
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://toppng.com/public/uploads/preview/kali-linux-logo-11562915225uyursxhbp6.png" alt="kali" width="50" height="50"/></a>
   <br/><br/>
 <h1>Github Stats</h1>
-https://github-readme-stats.vercel.app/api?username=cpu-astatine&show=reviews&theme=transparent
+https://github-readme-stats.vercel.app/api?username=cpu-astatine&show_icons=true&theme=radical
 
 
 <h1>Used Languages</h1>
