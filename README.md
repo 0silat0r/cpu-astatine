@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">cpu-astatine</h1>
 Hello, my name is Astatine. 
 I'm more into computer engineering than computer software. 
 I can say that I am an engineer candidate :)
