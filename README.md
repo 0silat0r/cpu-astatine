@@ -10,4 +10,3 @@ C, C#, C++, HTML/CSS.
 In my spare time, 
 I take walks and read books.
 
-### HTML/CSS || C#  || C++ || C || PYTHON
