@@ -11,6 +11,7 @@ In my spare time,
 I take walks and read books.
 
 For more:
+
 <h2>Hi 👋, I'm cpu-astatine</h2>
 <h3 align="center">A passionate Engineer Candidate from Turkey</h3>
 <h2>Software Languages</h2>
@@ -34,5 +35,5 @@ https://github-readme-stats.vercel.app/api?username=cpu-astatine&show_icons=true
 https://github-readme-stats.vercel.app/api/top-langs/?username=cpu-astatine&hide_progress=true
 
 <h1>🌐 Social Media</h1>
-<h3>Github    : https://github.com/cpu-astatine</h3>
+<h3>Github : https://github.com/cpu-astatine</h3>
 <h3>Instagram : https://www.instagram.com/cpu_astatine_/?igshid=ZDc4ODBmNjlmNQ%3D%3D</h3>
