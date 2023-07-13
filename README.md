@@ -33,5 +33,5 @@ https://github-readme-stats.vercel.app/api?username=cpu-astatine&show_icons=true
 <h1>Used Languages</h1>
 https://github-readme-stats.vercel.app/api/top-langs/?username=cpu-astatine&hide_progress=true
 
-<h1>🌐 Social Media Accounts</h1>
+<h1>🌐 Social Media</h1>
 <h3>Github : https://github.com/cpu-astatine</h3>
