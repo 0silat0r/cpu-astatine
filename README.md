@@ -35,6 +35,5 @@ For more:
 ### Most Used Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cpu-astatine&hide_progress=true)
 
-<h1>🌐 Social Media</h1>
-<h3>Github : https://github.com/cpu-astatine</h3>
-<h3>Instagram : https://www.instagram.com/cpu_astatine_/?igshid=ZDc4ODBmNjlmNQ%3D%3D
+### 🌐 Social Media
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/cpu_astatine_/?igshid=ZDc4ODBmNjlmNQ%3D%3D)
