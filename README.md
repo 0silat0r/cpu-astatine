@@ -27,13 +27,14 @@ For more:
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://toppng.com/public/uploads/preview/kali-linux-logo-11562915225uyursxhbp6.png" alt="kali" width="50" height="50"/></a>
   <br/><br/>
-<h1>Github Stats</h1>
-https://github-readme-stats.vercel.app/api?username=cpu-astatine&show_icons=true&theme=radical
 
+### GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=cpu-astatine&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=cpu-astatine&theme=dark&hide_border=true)<br/>
 
-<h1>Used Languages</h1>
-https://github-readme-stats.vercel.app/api/top-langs/?username=cpu-astatine&hide_progress=true
+### Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cpu-astatine&hide_progress=true)
 
 <h1>🌐 Social Media</h1>
 <h3>Github : https://github.com/cpu-astatine</h3>
-<h3>Instagram : https://www.instagram.com/cpu_astatine_/?igshid=ZDc4ODBmNjlmNQ%3D%3D</h3>
+<h3>Instagram : https://www.instagram.com/cpu_astatine_/?igshid=ZDc4ODBmNjlmNQ%3D%3D
