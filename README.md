@@ -37,3 +37,4 @@ For more:
 
 ### 🌐 Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/cpu_astatine_/?igshid=ZDc4ODBmNjlmNQ%3D%3D)
+<a href="https://evrimagaci.org/astatine"><img src="https://production.listennotes.com/podcasts/evrim-a%C4%9Fac%C4%B1-evrim-a%C4%9Fac%C4%B1-eSELnMYbFw8.1400x1400.jpg" height="40" width="40" float="left"></a>
