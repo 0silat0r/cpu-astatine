@@ -1,19 +1,4 @@
-<h1 align="center">Information</h1>
-Hello, my name is Astatine. 
-I'm more into computer engineering than computer software. 
-I can say that I am an engineer candidate :)
-I am interested in the solution of software and hardware failures, 
-maintenance and repair works related to heavy failures caused by 
-these failures.
-I have intermediate knowledge of 
-C, C#, C++, HTML/CSS, Python. 
-In my spare time, 
-I take walks and read books.
-
-For more:
-
-<h2>Hi 👋, I'm cpu-astatine</h2>
-<h3 align="center">A passionate Engineer Candidate from Turkey</h3>
+<h2>I'am a Computer Engineer Candidate</h2>
 <h2>Software Languages</h2>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
