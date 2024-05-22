@@ -18,5 +18,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cpu-astatine&hide_progress=true)
 
 <h1>🌐 Social Media</h1>
-<a href="https://www.instagram.com/cpu_astatine_"><img src="https://github.com/cpu-astatine/cpu-astatine/assets/87228325/0d5b0194-cc48-4d30-816b-c58ba99b3812", width="15", height="15"> : My Instagram Account</a><br/>
-<a href="https://www.linkedin.com/in/mehmet-furkan-kılınç-429767231/"><img src="https://github.com/cpu-astatine/cpu-astatine/assets/87228325/836cc4ad-eac5-4921-af7c-152997a71e99", width="15",height="15"> : My Linkedin Account</a>
+<a href="https://www.instagram.com/cpu_astatine_"><img src="https://github.com/cpu-astatine/cpu-astatine/assets/87228325/0d5b0194-cc48-4d30-816b-c58ba99b3812", width="20", height="20"> : My Instagram Account</a><br/>
+<a href="https://www.linkedin.com/in/mehmet-furkan-kılınç-429767231/"><img src="https://github.com/cpu-astatine/cpu-astatine/assets/87228325/836cc4ad-eac5-4921-af7c-152997a71e99", width="20",height="20"> : My Linkedin Account</a>
