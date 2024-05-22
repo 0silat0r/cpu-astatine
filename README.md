@@ -1,4 +1,4 @@
-<h2>I'am a Computer Engineer Candidate</h2>
+<h2>I'am a Computer Technician</h2>
 <h2>Software Languages</h2>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
@@ -17,6 +17,6 @@
 ### Most Used Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cpu-astatine&hide_progress=true)
 
-### 🌐 Social Media
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/cpu_astatine_/?igshid=ZDc4ODBmNjlmNQ%3D%3D)
-<a href="https://evrimagaci.org/astatine"><img src="https://production.listennotes.com/podcasts/evrim-a%C4%9Fac%C4%B1-evrim-a%C4%9Fac%C4%B1-eSELnMYbFw8.1400x1400.jpg" height="40" width="40" float="left"></a>
+<h1>🌐 Social Media</h1>
+<a href="https://www.instagram.com/cpu_astatine_"><img src="https://www.pngall.com/wp-content/uploads/5/Instagram-Logo.png"> : My Instagram Account</a><br/>
+<a href="https://www.linkedin.com/in/mehmet-furkan-kılınç-429767231/"><img src="https://www.pngitem.com/pimgs/m/498-4987196_linkedin-logo-png-linkedin-in-icon-transparent-png.png"> : My Linkedin Account</a>
